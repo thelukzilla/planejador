@@ -1,0 +1,6 @@
+{
+  "name": "Projeto Billy | Painel de Evolução Pessoal",
+  "description": "Painel pessoal de estudos, desenvolvimento e evolução de hábitos durante 60 dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
